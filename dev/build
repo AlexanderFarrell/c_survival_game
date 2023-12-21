@@ -1,0 +1,3 @@
+cmake -Bbuild src &&
+cd build &&
+make

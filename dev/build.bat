@@ -1,0 +1,2 @@
+cmake -Bbuild src &&
+make
