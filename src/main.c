@@ -12,11 +12,11 @@
 
 Area areas[] = {
     // Name, Health_Delta, Hunger_Delta
-    {"Forest", 0, 0},
-    {"Desert", -5, -10},
-    {"Jungle", -10, 0},
-    {"Mountain", -15, -5},
-    {"Ocean", 0, -10}
+    {"Forest 🌲", 0, 0},
+    {"Desert 🌵", -5, -10},
+    {"Jungle 🌴", -10, 0},
+    {"Mountain ⛰", -15, -5},
+    {"Ocean 🌊", 0, -10}
 };
 int areas_count = 5;
 
